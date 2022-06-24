@@ -1,15 +1,9 @@
 name: CI
 on:
   pull_request:
-<<<<<<< HEAD
     branches: [develop, main]
   push:
     branches: [develop, main]
-=======
-    branches: [develop]
-  push:
-    branches: [develop]
->>>>>>> 3c2c0c0 (Add build and upload steps to build jobs)
 
 jobs:
   build:
