@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "@semantic-release/npm": "^9.0.1",
     "prettier": "^2.7.1"
   }
 }
